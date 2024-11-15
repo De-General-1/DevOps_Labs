@@ -20,6 +20,6 @@ def clear_temp_folder(temp_folder):
         
 if __name__ == "__main__":
  SERVICE_NAME = "cron"
- TEMP_FOLDER = os.path.join(os.getcwd(), "temp")
+ TEMP_FOLDER = '/tmp/temp'
  restart_service(SERVICE_NAME)
  clear_temp_folder(TEMP_FOLDER)
