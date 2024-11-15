@@ -1,0 +1,2 @@
+In this lab, I learned Python file management, including using os for directories, requests for downloading files, and handling file reading and writing, enhancing my skills for automation and file management.
+Last modified on: 2024-11-4 14:41:08
